@@ -1,1 +1,1 @@
-<img width="500" height="500" alt="pixel_profile_animation_color_fast" src="https://github.com/user-attachments/assets/a8a0f245-9620-42b4-97b4-970a58364910" />
+<img width="500" height="500" alt="pixel_profile_animation_pro_256" src="https://github.com/user-attachments/assets/4dff1064-dce0-422f-921f-da35a7b0aa95" />
