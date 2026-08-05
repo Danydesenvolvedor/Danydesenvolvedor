@@ -1,0 +1,147 @@
+{
+  "owner": "danydesenvolvedor",
+  "featured": [
+    {
+      "name": "AtamaTax",
+      "type": "Featured Project",
+      "description": "A modern tax management platform designed to simplify fiscal operations, administrative workflows and financial organization.",
+      "category": "FinTech / SaaS",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "PHP",
+        "MySQL",
+        "REST API",
+        "Cloud"
+      ],
+      "features": [
+        "Tax management dashboard",
+        "Administrative automation",
+        "Financial data organization",
+        "Secure user management",
+        "Responsive interface"
+      ],
+      "github": "",
+      "demo": "",
+      "status": "Active",
+      "icon": "logos/atamatax.png"
+    },
+    {
+      "name": "FindMyScammer",
+      "type": "Featured Project",
+      "description": "A cybersecurity and digital investigation platform focused on identifying suspicious online activities and improving scam detection.",
+      "category": "Cybersecurity / Investigation",
+      "technologies": [
+        "Python",
+        "AI",
+        "Machine Learning",
+        "Web Technologies",
+        "Data Analysis"
+      ],
+      "features": [
+        "Digital investigation workflow",
+        "Scam identification",
+        "Data analysis",
+        "Threat intelligence concepts",
+        "Security-oriented architecture"
+      ],
+      "github": "",
+      "demo": "",
+      "status": "Active",
+      "icon": "logos/findmyscammer.png"
+    },
+    {
+      "name": "LeadUnity",
+      "repository": "arifhaxn/lead_unity",
+      "description": "University defense setup platform built with modern cross-platform technologies.",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "NextJS"
+      ],
+      "features": [
+        "Cross platform mobile application",
+        "Modern UI",
+        "University workflow management"
+      ],
+      "icon": "logos/flutter.png"
+    },
+    {
+      "name": "OnePick",
+      "repository": "arifhaxn/one_pick",
+      "description": "One Piece trivia application allowing users to discover their character personality.",
+      "technologies": [
+        "Flutter",
+        "Dart"
+      ],
+      "features": [
+        "Interactive quiz system",
+        "Character matching",
+        "Mobile optimized experience"
+      ],
+      "icon": "logos/flutter.png"
+    },
+    {
+      "name": "Chessy",
+      "repository": "arifhaxn/chessy",
+      "description": "Chess timer application supporting multiple chess variations.",
+      "technologies": [
+        "Flutter",
+        "Dart"
+      ],
+      "features": [
+        "Chess timers",
+        "Multiple game modes",
+        "Clean mobile interface"
+      ],
+      "icon": "logos/flutter.png"
+    },
+    {
+      "name": "Claster",
+      "repository": "arifhaxn/Claster",
+      "description": "Class scheduling platform helping teachers organize routines and schedules.",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "features": [
+        "Schedule management",
+        "Cloud synchronization",
+        "Teacher productivity tools"
+      ],
+      "icon": "logos/firebase.png"
+    },
+    {
+      "name": "OneTELE",
+      "repository": "arifhaxn/OneTELE---Liilab-Teleprompter",
+      "description": "Custom teleprompter solution created for recording studio workflows.",
+      "technologies": [
+        "Flutter",
+        "Dart"
+      ],
+      "features": [
+        "Studio assistance",
+        "Custom scrolling system",
+        "Recording workflow optimization"
+      ],
+      "icon": "logos/flutter.png"
+    },
+    {
+      "name": "Career Logic AI",
+      "repository": "arifhaxn/CareerLogic-AI",
+      "description": "AI-powered CV management and career assessment platform.",
+      "technologies": [
+        "Flutter",
+        "Dart",
+        "Groq AI"
+      ],
+      "features": [
+        "AI career analysis",
+        "CV evaluation",
+        "Smart recommendations"
+      ],
+      "icon": "logos/ai.png"
+    }
+  ]
+}
