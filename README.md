@@ -163,19 +163,6 @@ Main objectives:
 
 ---
 
-# 📱 Additional Projects
-
-| Project         | Description                  | Stack                   |
-| --------------- | ---------------------------- | ----------------------- |
-| LeadUnity       | University defense platform  | Flutter / Dart / NextJS |
-| OnePick         | One Piece character quiz app | Flutter                 |
-| Chessy          | Chess timer application      | Flutter                 |
-| Claster         | Teacher scheduling system    | Flutter / Firebase      |
-| OneTELE         | Studio teleprompter          | Flutter                 |
-| Career Logic AI | AI CV assessment system      | Flutter / Groq AI       |
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
