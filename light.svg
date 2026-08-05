@@ -1,0 +1,119 @@
+<svg width="1200"
+height="420"
+viewBox="0 0 1200 420"
+xmlns="http://www.w3.org/2000/svg">
+
+
+<defs>
+
+<linearGradient id="background"
+x1="0"
+y1="0"
+x2="1"
+y2="1">
+
+<stop stop-color="#FFFFFF"/>
+
+<stop offset="1"
+stop-color="#E0F2FE"/>
+
+</linearGradient>
+
+
+<linearGradient id="blue">
+
+<stop stop-color="#0284C7">
+
+<animate attributeName="stop-color"
+values="#0284C7;#7C3AED;#0284C7"
+dur="6s"
+repeatCount="indefinite"/>
+
+</stop>
+
+</linearGradient>
+
+
+</defs>
+
+
+
+<rect width="1200"
+height="420"
+rx="30"
+fill="url(#background)"/>
+
+
+
+<circle
+cx="1050"
+cy="210"
+r="120"
+fill="white"
+stroke="#0284C7"
+stroke-width="5"/>
+
+
+
+<image
+href="assets/avatar/dany.png"
+x="950"
+y="110"
+width="200"
+height="200"/>
+
+
+
+<text
+x="70"
+y="130"
+font-size="42"
+font-family="Arial"
+font-weight="700"
+fill="#0F172A">
+
+Danilson Dave Igaramos
+
+</text>
+
+
+
+<text
+x="70"
+y="190"
+font-size="30"
+font-family="Arial"
+fill="url(#blue)">
+
+Software Engineer
+
+</text>
+
+
+
+<text
+x="70"
+y="245"
+font-size="20"
+font-family="Arial"
+fill="#334155">
+
+AI • Cybersecurity • Modern Applications
+
+</text>
+
+
+
+<text
+x="70"
+y="310"
+font-size="18"
+font-family="monospace"
+fill="#475569">
+
+Creating technology with impact.
+
+</text>
+
+
+</svg>
