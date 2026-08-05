@@ -1,0 +1,33 @@
+{
+  "name": "Danilson Ramos",
+  "username": "danydesenvolvedor",
+
+  "role": "Software Engineer",
+
+  "headline": "Building scalable software, AI-powered solutions and cybersecurity platforms.",
+
+  "location": "Switzerland",
+
+  "email": "danilson.daveigaramos.pro@gmail.com",
+
+  "linkedin": "https://www.linkedin.com/in/danilson-ramos-4b9482166/",
+
+  "domains": [
+    "Software Engineering",
+    "Web Development",
+    "Mobile Development",
+    "Artificial Intelligence",
+    "Cybersecurity",
+    "Cloud Computing"
+  ],
+
+  "availability": {
+    "status": "Open to opportunities",
+    "remote": true
+  },
+
+  "social": {
+    "github": "https://github.com/danydesenvolvedor",
+    "linkedin": "https://www.linkedin.com/in/danilson-ramos-4b9482166/"
+  }
+}
