@@ -1,0 +1,33 @@
+{
+  "theme": {
+    "default": "dark",
+    "supportLightMode": true
+  },
+
+  "branding": {
+    "primaryColor": "#00D9FF",
+    "secondaryColor": "#7B2FFF",
+    "style": "futuristic glassmorphism"
+  },
+
+  "animation": {
+    "enabled": true,
+    "particles": true,
+    "typingEffect": true,
+    "gradientAnimation": true
+  },
+
+  "github": {
+    "metrics": true,
+    "snake": true,
+    "streak": true,
+    "trophies": true,
+    "activityGraph": true
+  },
+
+  "assets": {
+    "avatar": "assets/avatar/dany.png",
+    "logos": "logos/",
+    "output": "output/"
+  }
+}
